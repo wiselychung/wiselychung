@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wiselychung
 - 👀 I’m interested in programming, brewing coffee, cardistry, learning language
-- 🌱 I’m currently learning django framework, korean language.
+- 🌱 I’m currently learning React framework, korean language.
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me wiselychung96@gmail.com
 
